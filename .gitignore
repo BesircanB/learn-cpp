@@ -1,0 +1,13 @@
+# Build output
+bin/
+a.out
+
+# Object files
+*.o
+
+# Executables
+*.out
+*.exe
+
+# VS Code (optional)
+.vscode/
